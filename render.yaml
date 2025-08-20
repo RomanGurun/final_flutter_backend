@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: final-defense-backend-movie
+    name: final_flutter_backend
     env: python
     region: oregon
     plan: free
