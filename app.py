@@ -548,5 +548,9 @@ def findscore(title1, title2):
         'manhattanDistance': round(man, 4)
     })
 
+# if __name__ == '__main__':
+#     app.run(host='0.0.0.0', debug=True, port=5001)
+
+# ==================render======================= 
 if __name__ == '__main__':
-    app.run(host='0.0.0.0', debug=True, port=5001)
+    app.run()
